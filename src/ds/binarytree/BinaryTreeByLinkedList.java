@@ -1,7 +1,7 @@
 package ds.binarytree;
 import java.util.*;
 
-import node.BinaryNode;
+import ds.node.BinaryNode;
 
 public class BinaryTreeByLinkedList {
 	BinaryNode root;
